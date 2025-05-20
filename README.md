@@ -1,4 +1,4 @@
-# Rin-I
+# RIN-1
 This is a 7inch FPV Drone for my thesis
 
 In the table below you can find all the parts I used, as well as links to buy them.
